@@ -60,7 +60,7 @@ export const Banner = () => {
                   {/* <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> */}
                   {/* <button className="vvd"><span>Let’s Connect</span></button>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button> */}
-                  <a className="flat-button" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/17uNs30H-w0q7JqvEXLcJA71oN4y1WR8i/view?usp=sharing">Resume</a>
+                  <a className="flat-button" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1m86EfIok6Yy8YxW0H8ocl8Bwv57rmiaX/view?usp=sharing">Resume</a>
               </div>}
             </TrackVisibility>
           </Col>
